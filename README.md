@@ -1,3 +1,5 @@
+**PROJECT OVERVIEW :**
+
 1. Automated duplicate product detection for merchant catalogs using a GenAI + rules workflow on a 128,038-record dataset.
 
 2. Standardized product fields (name/brand/category/package + unit normalization), cleaning ~88% with extended unit-conversion logic for edge cases.
